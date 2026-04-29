@@ -29,3 +29,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Removed unused variable declarations
+
+## 2026-04-29
+- Added type hints to helper functions
+- Refactored module structure for clarity
+- Resolved deprecation warnings
