@@ -26,3 +26,6 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Fixed minor edge case in input handling
 - Added .editorconfig for consistent formatting
+
+## 2026-04-29
+- Removed unused variable declarations
