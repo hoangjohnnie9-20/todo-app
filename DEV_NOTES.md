@@ -34,3 +34,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Refactored module structure for clarity
 - Resolved deprecation warnings
+
+## 2026-05-06
+- Resolved deprecation warnings
+- Drafted initial implementation plan for v2
+- Documented config options
